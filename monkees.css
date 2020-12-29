@@ -1,0 +1,17 @@
+h1 {text-align: center; color: red; font-family: cursive;}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+body {text-align: center; margin: auto;}
+
+#first{text-align: center; color: green}
+
+.bio {text-align: center; font-style: italic;}
+
+#second {font-family: 'Courier New', Courier, monospace; color: red;
+    font-style: initial;}
